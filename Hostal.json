@@ -14,46 +14,12 @@
 },
 {
   "_id": {
-    "$oid": "666a8597fb3d4e8f966a17f8"
-  },
-  "fechaIngreso": "2023-07-25T00:00:00.000Z",
-  "nombre": "Maria Becerra",
-  "tipoIdentificacion": "Pasaporte",
-  "numDocumento": "AAF532592",
-  "nacionalidad": "Argentina",
-  "numHabitacion": 11,
-  "cantPersonas": 1
-},
-{
-  "_id": {
-    "$oid": "666a8597fb3d4e8f966a17f9"
-  },
-  "fechaIngreso": "2024-02-14T00:00:00.000Z",
-  "nombre": "Juan Castro",
-  "tipoIdentificacion": "DUI",
-  "numDocumento": "04054829-7",
-  "nacionalidad": "Salvadoreño",
-  "numHabitacion": 20,
-  "cantPersonas": 2
-},
-{
-  "_id": {
-    "$oid": "666a8597fb3d4e8f966a17fa"
-  },
-  "fechaIngreso": "2024-06-17T00:00:00.000Z",
-  "nombre": "Karina López",
-  "tipoIdentificacion": "DUI",
-  "numDocumento": "01848744-9",
-  "nacionalidad": "Salvadoreña",
-  "numHabitacion": 1,
-  "cantPersonas": 4
-},
-{
-  "_id": {
     "$oid": "666a8597fb3d4e8f966a17fb"
   },
-  "fechaIngreso": "2020-01-01T00:00:00.000Z",
-  "nombre": "Andres Reyes",
+  "fechaIngreso": {
+    "$date": "2020-01-01T00:00:00.000Z"
+  },
+  "nombre": "Kevin Rodriguez",
   "tipoIdentificacion": "DUI",
   "numDocumento": "09742846-9",
   "nacionalidad": "Salvadoreño",
@@ -62,55 +28,15 @@
 },
 {
   "_id": {
-    "$oid": "666a8597fb3d4e8f966a17fc"
-  },
-  "fechaIngreso": "2017-04-05T00:00:00.000Z",
-  "nombre": "Elmer Figueroa",
-  "tipoIdentificacion": "Pasaporte",
-  "numDocumento": "E00007734",
-  "nacionalidad": "Estadounidense",
-  "numHabitacion": 30,
-  "cantPersonas": 3
-},
-{
-  "_id": {
-    "$oid": "666f926de5693f8f2c8a527c"
+    "$oid": "666fbf8e3700e79bf230d90f"
   },
   "fechaIngreso": {
-    "$date": "2023-07-26T14:30:00.000Z"
+    "$date": "2024-05-12T10:00:00.000Z"
   },
-  "nombre": "Kevin Rodriguez",
-  "tipoIdentificacion": "Pasaporte",
-  "numDocumento": "B02757417",
-  "nacionalidad": "Salvadoreño",
-  "numHabitacion": 77,
-  "cantPersonas": 2
-},
-{
-  "_id": {
-    "$oid": "666f9279e5693f8f2c8a527d"
-  },
-  "fechaIngreso": {
-    "$date": "2023-07-26T14:30:00.000Z"
-  },
-  "nombre": "Kevin Rodriguez",
-  "tipoIdentificacion": "Pasaporte",
-  "numDocumento": "B02757417",
-  "nacionalidad": "Salvadoreño",
-  "numHabitacion": 60,
-  "cantPersonas": 2
-},
-{
-  "_id": {
-    "$oid": "666f95dce5693f8f2c8a527e"
-  },
-  "fechaIngreso": {
-    "$date": "2024-06-17T01:21:53.020Z"
-  },
-  "nombre": "Jacinto el grande",
+  "nombre": "Jasmin Robles",
   "tipoIdentificacion": "DUI",
-  "numDocumento": "23086000",
-  "nacionalidad": "Brasileño",
-  "numHabitacion": 78,
-  "cantPersonas": 13
+  "numDocumento": "05823299-1",
+  "nacionalidad": "Salvadoreña",
+  "numHabitacion": 21,
+  "cantPersonas": 1
 }]
