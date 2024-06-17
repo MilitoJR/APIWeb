@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "666a8597fb3d4e8f966a17f7"
+  },
+  "fechaIngreso": "2023-07-26T00:00:00Z",
+  "nombre": "Milton Barrera",
+  "tipoIdentificacion": "Pasaporte",
+  "numDocumento": "B02867419",
+  "nacionalidad": "Salvadoreño",
+  "numHabitacion": 9,
+  "cantPersonas": 5
+},
+{
+  "_id": {
+    "$oid": "666a8597fb3d4e8f966a17f8"
+  },
+  "fechaIngreso": "2023-07-25T00:00:00.000Z",
+  "nombre": "Maria Becerra",
+  "tipoIdentificacion": "Pasaporte",
+  "numDocumento": "AAF532592",
+  "nacionalidad": "Argentina",
+  "numHabitacion": 11,
+  "cantPersonas": 1
+},
+{
+  "_id": {
+    "$oid": "666a8597fb3d4e8f966a17f9"
+  },
+  "fechaIngreso": "2024-02-14T00:00:00.000Z",
+  "nombre": "Juan Castro",
+  "tipoIdentificacion": "DUI",
+  "numDocumento": "04054829-7",
+  "nacionalidad": "Salvadoreño",
+  "numHabitacion": 20,
+  "cantPersonas": 2
+},
+{
+  "_id": {
+    "$oid": "666a8597fb3d4e8f966a17fa"
+  },
+  "fechaIngreso": "2024-06-17T00:00:00.000Z",
+  "nombre": "Karina López",
+  "tipoIdentificacion": "DUI",
+  "numDocumento": "01848744-9",
+  "nacionalidad": "Salvadoreña",
+  "numHabitacion": 1,
+  "cantPersonas": 4
+},
+{
+  "_id": {
+    "$oid": "666a8597fb3d4e8f966a17fb"
+  },
+  "fechaIngreso": "2020-01-01T00:00:00.000Z",
+  "nombre": "Andres Reyes",
+  "tipoIdentificacion": "DUI",
+  "numDocumento": "09742846-9",
+  "nacionalidad": "Salvadoreño",
+  "numHabitacion": 7,
+  "cantPersonas": 6
+},
+{
+  "_id": {
+    "$oid": "666a8597fb3d4e8f966a17fc"
+  },
+  "fechaIngreso": "2017-04-05T00:00:00.000Z",
+  "nombre": "Elmer Figueroa",
+  "tipoIdentificacion": "Pasaporte",
+  "numDocumento": "E00007734",
+  "nacionalidad": "Estadounidense",
+  "numHabitacion": 30,
+  "cantPersonas": 3
+}]
